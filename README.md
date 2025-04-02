@@ -25,7 +25,7 @@ Satu Data AI adalah platform berbasis web yang dirancang untuk mengintegrasikan 
 ## 🔧 Instalasi dan Menjalankan Proyek
 1. **Clone repositori ini:**
    ```bash
-   git clone https://github.com/username/satu-data-ai-fe.git
+   git clone https://github.com/MallombasiMattawang/fe-satu-data-ai.git
    cd satu-data-ai-fe
    ```
 2. **Install dependencies:**
