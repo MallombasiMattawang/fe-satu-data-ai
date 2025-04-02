@@ -1,0 +1,17 @@
+/* Tambahkan di file CSS Anda, misalnya, App.css atau langsung di style tag di komponen */
+@media print {
+  @page { size: 80mm 200mm; }
+  
+    body {
+      -webkit-print-color-adjust: exact; /* Memastikan warna cetak sesuai dengan tampilan layar */
+    }
+  
+    #print-area {
+      width: 80mm;
+      height: auto;
+      margin: 0;
+      padding: 1mm;
+      font-size: 5pt; /* Atur font-size sesuai kebutuhan */
+    }
+  }
+  
